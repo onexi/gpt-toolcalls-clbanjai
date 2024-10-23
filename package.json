@@ -1,10 +1,16 @@
 {
   "dependencies": {
+    "axios": "^1.7.7",
     "body-parser": "^1.20.3",
+    "cheerio": "^1.0.0",
+    "csv-parse": "^5.5.6",
     "express": "^4.21.0",
     "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
     "openai": "^4.67.2",
     "path": "^0.12.7",
+    "plotly": "^1.0.6",
+    "plotly.js-dist-min": "^2.35.2",
     "purl": "^1.0.4"
   },
   "type": "module"
